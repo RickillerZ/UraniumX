@@ -54,5 +54,5 @@ main site: urx.zone
 
 Community/Help
 -------
-https://discord.gg/xFxtY78
+https://discord.gg/MqeygyH
 
